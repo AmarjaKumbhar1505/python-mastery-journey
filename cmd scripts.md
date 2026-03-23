@@ -27,7 +27,7 @@
 
 &nbsp;.venv\\scripts\\activate   
 
-&nbsp;
+&nbsp;pip install -r requirement.txt
 
 ##### **Using Poetry on existing repo**
 
